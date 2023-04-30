@@ -10,7 +10,7 @@
 <div>
   <h2 font-weight="bold">Programming Language</h2>
    <div align="left">
-    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3/web3-original.svg"/></code>
      <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
     <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
     <a href="https://www.qt.io/" target="_blank">
