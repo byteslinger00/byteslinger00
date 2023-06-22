@@ -7,8 +7,7 @@
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
 ### 👨🏽‍💻 &nbsp;About Me
-<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
- 
+<a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
 <p>
 Rich experience designing, developing, and implementing web applications.
 Equipped with a diverse and promising skill-set: PHP, Laravel, JS, TS, React, Next, Node, Express etc. 
