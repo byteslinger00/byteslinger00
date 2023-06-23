@@ -4,8 +4,11 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Front-End Developer (Web & Mobile UI)
 
+<h1 align="center">
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
+ Front-End Developer (Web & Mobile UI)
+</h1>
 ### 👨🏽‍💻 &nbsp;About Me
 <a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
 <p>
