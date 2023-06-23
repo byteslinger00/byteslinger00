@@ -1,13 +1,14 @@
 <h1 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
  Hi, Welcome to my GitHub profile 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
 </h1>
 
 
 <h1 align="center">
- <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
+ <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  Front-End Developer (Web & Mobile UI)
+ <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
 </h1>
 ### 👨🏽‍💻 &nbsp;About Me
 <a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
