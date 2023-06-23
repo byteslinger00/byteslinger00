@@ -7,7 +7,7 @@
 
 <h1 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
- Front-End Developer (Web & Mobile UI)
+     &nbsp; &nbsp; &nbsp;Front-End Developer (Web & Mobile UI)
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
 </h1>
 ### 👨🏽‍💻 &nbsp;About Me
