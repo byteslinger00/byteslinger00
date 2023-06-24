@@ -13,11 +13,12 @@
 ### 👨🏽‍💻 &nbsp;About Me
 <a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
 <p>
-As front-end developer, I have rich experience designing, developing, and implementing Web Front-End and Mobile UI.
-Equipped with a diverse and promising skill-set: React, Next.js, Angular, Vue, Flutter, React Native, Kotlin etc. 
-Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using web3.js, Ethers.js, solidity on EVM.
+As a front-end developer, I have rich experience designing, developing, and implementing Web Front-End and Mobile UI.
+Equipped with a diverse and promising skill-set: React, Next.js, Angular, Vue, Flutter, React Native, Swift, Kotlin etc. 
+Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with using web3.js, Ethers.js, solidity on EVM and Mobile UI developing using Swift.
 
-Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
+Passionate about developing scalable, maintainable, and reliable applications.
+High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
 
 Ready for an opportunity to use my skills to grow your business and revenue exponentially.
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
