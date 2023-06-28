@@ -1,15 +1,17 @@
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 <h1 align="center">
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
- Hi, Welcome to my GitHub profile 
+ Hi, there! This is Athena... 
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
 </h1>
-
-
-<h1 align="center">
+<h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
-     &nbsp; &nbsp; &nbsp;Front-End Developer (Web & Mobile UI)
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-</h1>
+     &nbsp; &nbsp; &nbsp;Front-End Developer (Web & Mobile UI)
+ 
+</h2>
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
 <p>
@@ -71,4 +73,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     <img src="https://github-readme-stats.vercel.app/api?username=21st-Athena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21st-Athena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <div>
+     <a href="https://stats.hyochan.dev/en/stats/21st-Athena"><img src="https://stats.hyochan.dev/api/github-stats?login=21st-Athena" width="600" /></a>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=21st-Athena&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
