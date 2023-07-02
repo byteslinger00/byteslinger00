@@ -13,7 +13,7 @@
  
 </h2>
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
-<a href="https://app.daily.dev/Athena"><img align='right' src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=1fa" width="400" alt="Athena's Dev Card"/></a>
+<a href="https://app.daily.dev/Athena"><img align="right" src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=v2p" width="400" alt="Athena's Dev Card"/></a>
 <p>
  <br/><br/>
 As a front-end developer, I have rich experience designing, developing, and implementing Web Front-End and Mobile UI.<br/>
