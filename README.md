@@ -15,16 +15,16 @@
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <a href="https://app.daily.dev/Athena"><img align="right" src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=8pg" width="400" alt="Athena's Dev Card"/></a>
 <p>
- <br/><br/>
-As a front-end developer, I have rich experience designing, developing, and implementing Web Front-End and Mobile UI.<br/>
-Equipped with a diverse and promising skill-set: React, Next.js, Angular, Vue, Flutter, React Native, Swift, Kotlin etc. <br/>
-Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with using web3.js, Ethers.js, solidity on EVM and Mobile UI developing using Swift.<br/>
-<br/>
-Passionate about developing scalable, maintainable, and reliable applications.<br/>
+ <br/><br/><br/><br/>
+ I'm Full Stack developer (Front End Heavy) focused on Ecommerce development. <br/>
+  You can see my stacks down. <br/>
+  🚀 More than 100 Shopify Stores have already created for my clients and hundreds of issues were solved.I'm 🔰 CERTIFIED Shopify/Shopify plus developer/partner. I have been working with Shopify for more than two years. <br/>
+  I assure, you’ll get response within 24 hours. <br/>
+  Passionate about developing scalable, maintainable, and reliable applications. <br/>
 High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.<br/>
-<br/>
+
 Ready for an opportunity to use my skills to grow your business and revenue exponentially.<br/>
-Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.<br/>
+
 </p>
 
 <div align="center">
