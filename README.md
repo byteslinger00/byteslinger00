@@ -9,14 +9,14 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp;Front-End Developer (Web & Mobile UI)
+     &nbsp; &nbsp; &nbsp;Full Stack(Front-End Heavy) Developer (Web & Mobile UI)
  
 </h2>
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <a href="https://app.daily.dev/Athena"><img align="right" src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=8pg" width="400" alt="Athena's Dev Card"/></a>
 <p>
  <br/><br/><br/><br/>
- I'm Full Stack developer (Front End Heavy) focused on Ecommerce development. <br/>
+ I'm Full Stack developer (Front-End Heavy) focused on Ecommerce development. <br/>
   You can see my stacks down. <br/>
   🚀 More than 100 Shopify Stores have already created for my clients and hundreds of issues were solved.I'm 🔰 CERTIFIED Shopify/Shopify plus developer/partner. I have been working with Shopify for more than two years. <br/>
   I assure, you’ll get response within 24 hours. <br/>
