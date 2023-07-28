@@ -73,6 +73,6 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
     <img src="https://github-readme-stats.vercel.app/api?username=21st-Athena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoddessOfDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <div>
-     <a href="https://stats.hyochan.dev/en/stats/21st-Athena"><img src="https://stats.hyochan.dev/api/github-stats?login=GoddessOfDev" width="600" /></a>
+     <a href="https://stats.hyochan.dev/en/stats/GoddessOfDev"><img src="https://stats.hyochan.dev/api/github-stats?login=GoddessOfDev" width="600" /></a>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoddessOfDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
