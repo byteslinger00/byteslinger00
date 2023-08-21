@@ -9,7 +9,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp;Full Stack(Front-End Heavy) Developer (Web & Mobile UI)
+     &nbsp; &nbsp; &nbsp; Web & Mobile Developer (Full-stack|Heavy Front-end)
  
 </h2>
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
