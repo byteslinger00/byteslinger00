@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
- Hi, there! This is Zeus... 
+ Hi, there! This is Goddess Of Dev 
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
 </h1>
 <h2 align="center">
