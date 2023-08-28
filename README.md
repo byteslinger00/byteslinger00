@@ -1,11 +1,11 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
-<h1 align="center">
- <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
- Hi, there! This is God Of Dev 
- <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='100'>
-</h1>
+<h2 align="center">
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
+ Hi, there! I'm Oleg.
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
+</h2>
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
@@ -15,7 +15,6 @@
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <!--<a href="https://app.daily.dev/Athena"><img align="right" src="https://api.daily.dev/devcards/0010c44b8b114b0e96e19d30aba6e47e.png?r=8pg" width="400" alt="Athena's Dev Card"/></a>-->
 <p>
- <br/><br/><br/><br/>
  I'm Full Stack developer (Front-End Heavy) focused on Ecommerce development. <br/>
   You can see my stacks down. <br/>
   🚀 More than 100 Shopify Stores have already created for my clients and hundreds of issues were solved.I'm 🔰 CERTIFIED Shopify/Shopify plus developer/partner. I have been working with Shopify for more than two years. <br/>
@@ -70,9 +69,9 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
  </table/>
 </div/>
     <div align = "center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=GoddessOfDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoddessOfDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=olegreimers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=olegreimers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <div>
-     <a href="https://stats.hyochan.dev/en/stats/GoddessOfDev"><img src="https://stats.hyochan.dev/api/github-stats?login=GoddessOfDev" width="600" /></a>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoddessOfDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+     <a href="https://stats.hyochan.dev/en/stats/olegreimers"><img src="https://stats.hyochan.dev/api/github-stats?login=olegreimers" width="600" /></a>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=olegreimers&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
