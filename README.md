@@ -6,6 +6,9 @@
  Hi, there! I'm Oleg.
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
 </h2>
+<h3 align="center">
+<a href="https://olegreimers.netlify.app/" align="center">You can see my portfolio here!</a>
+</h3>
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
