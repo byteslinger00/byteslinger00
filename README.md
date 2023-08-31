@@ -6,15 +6,15 @@
  Hi, there!
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
 </h2>
-<h3 align="center">
-<a href="https://byteslinger.netlify.app/" align="center">You can see my portfolio here!</a>
-</h3>
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
      &nbsp; &nbsp; &nbsp; Web & Mobile Developer (Full-stack|Heavy Front-end)
  
 </h2>
+<h3 align="center">
+👉 <a href="https://byteslinger.netlify.app/" align="center">CLICK ME! To see my portfolio.</a>
+</h3>
 <!--
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <p>
