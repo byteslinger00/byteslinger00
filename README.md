@@ -3,11 +3,11 @@
 </div>
 <h2 align="center">
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
- Hi, there! I'm Oleg.
+ Hi, there!
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
 </h2>
 <h3 align="center">
-<a href="https://olegreimers.netlify.app/" align="center">You can see my portfolio here!</a>
+<a href="https://byteslinger.netlify.app/" align="center">You can see my portfolio here!</a>
 </h3>
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
@@ -72,6 +72,6 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 </div/>
     <div align = "center" >
     <div>
-     <a href="https://stats.hyochan.dev/en/stats/olegreimers"><img src="https://stats.hyochan.dev/api/github-stats?login=olegreimers" width="600" /></a>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=olegreimers&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+     <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
