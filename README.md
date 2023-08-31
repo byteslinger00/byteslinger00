@@ -15,6 +15,7 @@
      &nbsp; &nbsp; &nbsp; Web & Mobile Developer (Full-stack|Heavy Front-end)
  
 </h2>
+<!--
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <p>
  I'm Full Stack developer (Front-End Heavy) focused on Ecommerce development. <br/>
@@ -74,4 +75,5 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
     <div>
      <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
