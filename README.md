@@ -9,7 +9,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp; Web & Mobile Developer (Full-stack|Heavy Front-end)
+     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer (Web & Mobile)
  
 </h2>
 <h3 align="center">
@@ -37,6 +37,11 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
  Tech & Tools
  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
 </h3>
+<div align = "center" >
+    <div>
+     <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+-->
 <div align="center" style="witdh:100%"> 
  <table>
   <tr>
@@ -71,9 +76,5 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
   </tr>
  </table/>
 </div/>
-    <div align = "center" >
-    <div>
-     <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
--->
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
