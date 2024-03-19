@@ -13,7 +13,6 @@
  
 </h2>
 <h3 align="center">
-👉 <a href="https://byteslinger.netlify.app/" align="center">CLICK ME! To see my portfolio.</a>
 </h3>
 <!--
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
