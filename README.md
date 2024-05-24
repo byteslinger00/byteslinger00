@@ -10,7 +10,7 @@
 <h2 align="center">
  <img src="https://media.giphy.com/media/FWyLGar0fQADQeKWYc/giphy.gif" width='100'>
  <img src="https://media.giphy.com/media/Nta20xR2YdEMWv5bYA/giphy.gif" width='150'>
-     &nbsp; &nbsp; &nbsp; Expert Front-End Developer (Web & Mobile)
+     &nbsp; &nbsp; &nbsp; Expert Full-Stack Developer (Web & Mobile)
  
 </h2>
 <h3 align="center">
@@ -18,7 +18,7 @@
 <!--
 <h1>### <img src="https://media.giphy.com/media/a4b16vKA3iX34fwEKA/giphy.gif" width='80'>About Me</h1>
 <p>
- I'm Front End developer (Front-End Heavy) focused on Ecommerce development. <br/>
+ I'm Full-Stack Developer focused on Ecommerce development. <br/>
   You can see my stacks down. <br/>
   🚀 More than 100 Shopify Stores have already created for my clients and hundreds of issues were solved.I'm 🔰 CERTIFIED Shopify/Shopify plus developer/partner. I have been working with Shopify for more than two years. <br/>
   I assure, you’ll get response within 24 hours. <br/>
