@@ -2,6 +2,10 @@
 <img src="https://avatars.githubusercontent.com/u/132208831?v=4" width='200' height='200'>
   ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 </div>
+<audio id="audio-player" autoplay>
+   <source src="https://pianotilesflat.s3.amazonaws.com/Music2/feel_so_good.ogg" type="audio/ogg">
+    Your browser does not support the audio element.
+  </audio>
 <h2 align="center">
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
  Hi, there!
